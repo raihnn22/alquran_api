@@ -74,7 +74,7 @@ class _PostDetailState extends State<PostDetail> {
                               textAlign: TextAlign.right,
                               textDirection: TextDirection.rtl, 
                               style: GoogleFonts.amiri(
-                                fontSize: 20,
+                                fontSize: 35,
                                 fontWeight: FontWeight.bold,
                               ),
                             ),
